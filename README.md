@@ -1,4 +1,4 @@
-# Google Light Theme
+# Google Transparent Light Theme
 A Home Assistant theme inspired on Google app Light mode.
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
