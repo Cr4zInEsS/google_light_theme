@@ -1,6 +1,8 @@
 # Google Transparent Light Theme
 A Home Assistant theme inspired on Google app Light mode.
 
+The theme is from JuanMTech, I added only the transparency to the cards.
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
 [![Subscribe to YouTube channel][youtube-sub-shield]][youtubesubscribe]
